@@ -43,7 +43,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## OUTPUT
 ![Uploading Exercise 1.1.jpg…]()
-
+file:///C:/Users/SEC/Downloads/Exercise%201.1%20(4).pdf
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
